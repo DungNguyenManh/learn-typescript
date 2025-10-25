@@ -1,7 +1,7 @@
 let person: { name: string, age: number, phoneNumber: string } = {
-    name: "Nguyen Manh Dung",
+    name: "Nguyễn Mạnh Dũng",
     age: 22,
-    phoneNumber: "0346456463"
+    phoneNumber: "0903698954"
 }
 
 console.log("person: ", person)
