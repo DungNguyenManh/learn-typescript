@@ -1,4 +1,4 @@
-// void không trả về giá trị gì cả
+// void trả về giá trị undefined
 
 const travegiatri = (a: number, b: number): number => {
     return a + b
